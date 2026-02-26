@@ -860,7 +860,7 @@ with st.sidebar:
 # ─────────────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="app-header">
-  <h1>🔬 Semiconductor Plasma Etching — Knowledge Graph Chatbot</h1>
+  <h1>🔬 Semiconductor Plasma Etching — Knowledge Graph Chatbot by BHASKAR</h1>
   <p>Physics-Aware Knowledge Graph · LLM Reasoning · Multi-Paper Consensus</p>
 </div>
 """, unsafe_allow_html=True)
